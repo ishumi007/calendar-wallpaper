@@ -15,6 +15,7 @@ dist/
 # Generated files
 # --------------------
 *.png
+!assets/*.png
 *.jpg
 
 # --------------------
