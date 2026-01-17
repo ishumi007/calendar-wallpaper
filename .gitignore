@@ -1,0 +1,30 @@
+# --------------------
+# Python cache
+# --------------------
+__pycache__/
+*.pyc
+
+# --------------------
+# PyInstaller output
+# --------------------
+build/
+dist/
+*.spec
+
+# --------------------
+# Generated files
+# --------------------
+*.png
+*.jpg
+
+# --------------------
+# Local data / user state
+# --------------------
+*.txt
+
+# --------------------
+# OS / editor junk
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
