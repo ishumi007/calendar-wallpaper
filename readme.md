@@ -27,5 +27,12 @@ A minimal yearly calendar wallpaper for Windows that helps track time, productiv
 ## Automation
 This project is designed to run daily using **Windows Task Scheduler**.
 
+## What I learned building this
+- Git basics: add, commit, push, reset, force-push
+- Managing `.gitignore` for generated files
+- Debugging GitHub 404s caused by filename mismatches
+- Automating scripts with Windows Task Scheduler
+
+
 ## Author
 Ishu Mishra
