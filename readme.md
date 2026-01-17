@@ -1,5 +1,8 @@
 # Calendar Wallpaper
 
+![Calendar Wallpaper](assets/calendar_wallpaper.png)
+
+
 A minimal yearly calendar wallpaper for Windows that helps track time, productivity, and personal checkpoints.
 
 ## Features
